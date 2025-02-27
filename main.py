@@ -195,18 +195,18 @@ class SongRanker:
     # Play song function (modified to use the UI)
     def play_song(self, song_path):
         song_name = os.path.basename(song_path)
-        self.log_message(f"Playing: {song_name} (skipping first 5 seconds)")
+        self.log_message(f"Playing: {song_name}")
         self.log_message("Controls:")
         self.log_message("- Press 'q' to stop and return")
         self.log_message("- Press RIGHT ARROW or 'D' to skip forward 5 seconds")
         self.log_message("- Press LEFT ARROW or 'A' to rewind 5 seconds")
 
         pygame.mixer.music.load(song_path)
-        # Start playing from 5 seconds into the song
-        pygame.mixer.music.play(start=5.0)
+        # Start playing from the beginning
+        pygame.mixer.music.play()
 
         # Track the current position (in seconds)
-        position_offset = 5.0  # Start at 5 seconds in
+        position_offset = 0.0  # Start from the beginning
         actual_listen_time = 0  # Track actual listening time
 
         playing = True
