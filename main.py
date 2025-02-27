@@ -97,7 +97,7 @@ class SongRanker:
 
     def save_rankings(self):
         with open(self.rankings_file, 'w') as f:
-            json.dump(self.rankings, f)
+            json.dump(self.rankings, f, indent=4)
 
     def load_listening_stats(self):
         if os.path.exists(self.listening_stats_file):
@@ -126,7 +126,7 @@ class SongRanker:
 
     def save_comparison_history(self):
         with open(self.comparison_history_file, 'w') as f:
-            json.dump(self.comparison_history, f)
+            json.dump(self.comparison_history, f, indent=4)
 
     def update_listening_stats(self, song, listen_time):
         if song not in self.listening_stats:
@@ -148,7 +148,7 @@ class SongRanker:
 
     def save_listening_stats(self):
         with open(self.listening_stats_file, 'w') as f:
-            json.dump(self.listening_stats, f)
+            json.dump(self.listening_stats, f, indent=4)
 
     # UI Helper Methods
     def log_message(self, message):
