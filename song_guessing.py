@@ -33,6 +33,7 @@ class SongGuessingGame:
         self.show_answer = False
         self.game_in_progress = False
         self.position_offset = 0.0  # Track position for skip/rewind
+        self.warning_message = None  # Added for input validation warning
 
         # Initialize pygame
         pygame.init()
@@ -66,6 +67,36 @@ class SongGuessingGame:
         self.load_songs()
         self.load_guess_stats()
         self.load_game_stats()
+
+    def format_name_capitalization(self, name):
+        """
+        Format names with special capitalization rules:
+        - Preserve ALL CAPS words
+        - Add spaces before capital letters that follow lowercase letters
+
+        Examples:
+        TwoWords -> Two Words
+        TWOWORDS -> TWOWORDS
+        TwWo -> Tw Wo
+        MultipleCapitalizedWords -> Multiple Capitalized Words
+        nocapitalletters -> nocapitalletters
+        someCapitalizedsomeNot -> some Capitalizedsome Not
+        """
+        # If the name is all uppercase, preserve it
+        if name.isupper():
+            return name
+
+        # Process the name character by character
+        formatted = name[0]  # Start with the first character
+
+        for i in range(1, len(name)):
+            # Add a space before a capital letter if preceded by a lowercase
+            if name[i].isupper() and name[i - 1].islower():
+                formatted += ' ' + name[i]
+            else:
+                formatted += name[i]
+
+        return formatted
 
     def load_songs(self):
         """Load songs from the recordings directory."""
@@ -177,6 +208,7 @@ class SongGuessingGame:
         self.current_game_score = 0
         self.current_game_guesses = 0
         self.current_song_index = 0
+        self.warning_message = None  # Clear any warning messages
 
         # Shuffle songs for this game
         self.songs_for_current_game = self.songs.copy()
@@ -207,6 +239,7 @@ class SongGuessingGame:
         """Move to the next song in the game."""
         # Update current song index
         self.current_song_index += 1
+        self.warning_message = None  # Clear any warning messages
 
         # Check if we've gone through all songs
         if self.current_song_index >= len(self.songs_for_current_game):
@@ -243,8 +276,18 @@ class SongGuessingGame:
 
         country, _, _ = self.parse_song_info(self.current_song)
 
-        # Check if guess is correct (case-insensitive)
-        is_correct = self.user_input.strip().lower() == country.lower()
+        # Check if input is at least 3 characters
+        if len(self.user_input.strip()) < 3:
+            # Set a warning message but don't count this attempt
+            self.warning_message = "Input must be at least 3 characters"
+            return
+        else:
+            self.warning_message = None  # Clear any warning
+
+        # Check if guess is correct (as a substring, case-insensitive)
+        user_input_lower = self.user_input.strip().lower()
+        country_lower = country.lower()
+        is_correct = user_input_lower in country_lower
 
         # Update stats
         self.update_guess_stats(self.current_song, is_correct)
@@ -376,9 +419,13 @@ class SongGuessingGame:
 
             # If showing answer, display full info
             if self.show_answer:
-                self.render_text(f"{song_name}", self.font_medium, self.BLACK,
+                # Format artist and song name with the capitalization rules
+                formatted_song_name = self.format_name_capitalization(song_name)
+                formatted_artist = self.format_name_capitalization(artist)
+
+                self.render_text(f"{formatted_song_name}", self.font_medium, self.BLACK,
                                  self.screen_width // 2, 100, "center")
-                self.render_text(f"by {artist} from {country}", self.font_medium, self.BLACK,
+                self.render_text(f"by {formatted_artist} from {country}", self.font_medium, self.BLACK,
                                  self.screen_width // 2, 140, "center")
 
                 # Result message
@@ -401,6 +448,11 @@ class SongGuessingGame:
                 # Regular game display - just need to guess the country
                 self.render_text("Guess the country of this song:", self.font_medium, self.BLACK,
                                  self.screen_width // 2, 100, "center")
+
+                # Display warning message if present
+                if self.warning_message:
+                    self.render_text(self.warning_message, self.font_small, self.RED,
+                                     self.screen_width // 2, 130, "center")
 
                 # Input box
                 input_box = self.create_input_box(
@@ -486,8 +538,11 @@ class SongGuessingGame:
 
                 for i, (song, stats) in enumerate(sorted_songs[:3]):
                     country, artist, _ = self.parse_song_info(song)
+                    # Format artist with the capitalization rules
+                    formatted_artist = self.format_name_capitalization(artist)
+
                     self.render_text(
-                        f"{i + 1}. {artist} ({country}): {stats['correct_rate']:.1f}% correct",
+                        f"{i + 1}. {formatted_artist} ({country}): {stats['correct_rate']:.1f}% correct",
                         self.font_small, self.BLACK, 90, y_pos
                     )
                     y_pos += 25
@@ -500,8 +555,11 @@ class SongGuessingGame:
 
                 for i, (song, stats) in enumerate(sorted_songs[-3:]):
                     country, artist, _ = self.parse_song_info(song)
+                    # Format artist with the capitalization rules
+                    formatted_artist = self.format_name_capitalization(artist)
+
                     self.render_text(
-                        f"{i + 1}. {artist} ({country}): {stats['correct_rate']:.1f}% correct",
+                        f"{i + 1}. {formatted_artist} ({country}): {stats['correct_rate']:.1f}% correct",
                         self.font_small, self.BLACK, 90, y_pos
                     )
                     y_pos += 25
