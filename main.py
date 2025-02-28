@@ -816,7 +816,7 @@ class SongRanker:
                 self.render_text(f"Suggestion: Compare at least {suggested_comparisons} more pairs",
                                  self.font_small, self.BLACK, 50, 320)
 
-                # Find songs with highest uncertainty
+                # Find songs with the highest uncertainty
                 high_uncertainty = sorted(
                     [(song, data["uncertainty"]) for song, data in self.rankings.items()],
                     key=lambda x: x[1], reverse=True
@@ -957,5 +957,6 @@ class SongRanker:
 
 
 if __name__ == "__main__":
+    send_log()
     app = SongRanker()
     app.run()
