@@ -4,6 +4,7 @@ import random
 import pygame
 import sys
 import math
+from log_data import send_log
 
 
 class SongRanker:
