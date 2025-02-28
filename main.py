@@ -57,6 +57,32 @@ class SongRanker:
         self.load_listening_stats()
         self.load_comparison_history()
 
+    def parse_song_info(self, filename):
+        """Parse song filename to extract country, artist, and song name."""
+        # Remove file extension
+        base_name = os.path.splitext(filename)[0]
+
+        # Split by underscore
+        parts = base_name.split('_')
+
+        # Default values if parsing fails
+        country = artist = song_name = ""
+
+        if len(parts) >= 3:
+            country = parts[0]
+            artist = parts[1]
+            song_name = '_'.join(parts[2:])  # Join remaining parts in case song name contains underscores
+        elif len(parts) == 2:
+            country = ""
+            artist = parts[0]
+            song_name = parts[1]
+        elif len(parts) == 1:
+            country = ""
+            artist = ""
+            song_name = parts[0]
+
+        return country, artist, song_name
+
     def load_songs(self):
         if os.path.exists(self.recordings_dir):
             self.songs = [f for f in os.listdir(self.recordings_dir)
@@ -251,15 +277,21 @@ class SongRanker:
             # Render the playback screen
             self.screen.fill(self.WHITE)
 
-            # Song playback information
-            self.render_text(f"Now Playing: {song_name}", self.font_medium, self.BLACK,
-                             self.screen_width // 2, 50, "center")
+            # Parse song information
+            country, artist, song_name_parsed = self.parse_song_info(song_name)
 
-            # Play/pause control
-            is_playing = pygame.mixer.music.get_busy()
-            play_status = "PLAYING" if is_playing else "PAUSED"
-            self.render_text(f"Status: {play_status}", self.font_medium, self.BLACK,
-                             self.screen_width // 2, 100, "center")
+            # Song playback information
+            if country and artist and song_name_parsed:
+                self.render_text("Now Playing:", self.font_medium, self.BLACK,
+                                 self.screen_width // 2, 50, "center")
+                self.render_text(f"{song_name_parsed}", self.font_medium, self.BLACK,
+                                 self.screen_width // 2, 80, "center")
+                self.render_text(f"by {artist} from {country}", self.font_small, self.DARK_GRAY,
+                                 self.screen_width // 2, 110, "center")
+            else:
+                # Fallback if parsing fails
+                self.render_text(f"Now Playing: {song_name}", self.font_medium, self.BLACK,
+                                 self.screen_width // 2, 50, "center")
 
             # Playback controls guide
             controls_y = 150
@@ -630,9 +662,9 @@ class SongRanker:
 
             # Header
             self.render_text("Song", self.font_medium, self.BLACK, 50, 80)
-            self.render_text("Avg. Time", self.font_medium, self.BLACK, 400, 80)
-            self.render_text("Listens", self.font_medium, self.BLACK, 500, 80)
-            self.render_text("Total Time", self.font_medium, self.BLACK, 600, 80)
+            self.render_text("Avg.", self.font_medium, self.BLACK, 400, 80)
+            self.render_text("Count", self.font_medium, self.BLACK, 500, 80)
+            self.render_text("Total", self.font_medium, self.BLACK, 600, 80)
             pygame.draw.line(self.screen, self.BLACK, (50, 105), (self.screen_width - 50, 105), 2)
 
             # Display stats in a scrollable area
