@@ -33,6 +33,7 @@ pip install -r requirements.txt
 
 3. Create a folder named `recordings` in the application directory 
 4. Add your music files to the `recordings` folder (supported formats: .mp3, .wav, .ogg, .flac)
+5. **IMPORTANT:** delete all JSON files when first initializing the app. These files contain personal rankings, uploaded for my progress saving purposes, but they do not reflect your personal choices. After deleting them, the app will automatically generate your personal statistics. Note: make sure to back up the progress before pulling new updates, as this might overwrite your statistics/create merge conflicts.
 
 ### File Naming Convention (Optional)
 
