@@ -28,7 +28,7 @@ Song Ranker is an interactive tool that lets you rank your music collection by c
 2. Install the required dependencies:
 
 ```
-pip install pygame
+pip install -r requirements.txt
 ```
 
 3. Create a folder named `recordings` in the application directory 
@@ -36,12 +36,12 @@ pip install pygame
 
 ### File Naming Convention (Optional)
 
-For better organization, you can name your files following this pattern:
+For better organization and to ensure proper formatting, you should name your files following this pattern:
 ```
 Country_Artist_SongName.mp3
 ```
 
-Example: `USA_TheWeeknd_AfterHours.mp3`
+Example: `Canada_TheWeeknd_AfterHours.mp3`
 
 ## Usage
 
