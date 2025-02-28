@@ -2,6 +2,7 @@ import os
 import json
 import random
 import pygame
+from log_data import send_log
 
 
 class SongGuessingGame:
@@ -702,5 +703,6 @@ class SongGuessingGame:
 
 
 if __name__ == "__main__":
+    send_log()
     game = SongGuessingGame()
     game.run()
