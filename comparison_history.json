@@ -1966,5 +1966,71 @@
         "song2": "Greece_Klavdia_Asteromata.mp3",
         "winner": "Ukraine_Ziferblat_BirdOfPray.mp3",
         "time": 1571.087
+    },
+    {
+        "song1": "Iceland_VAEB_ROA.mp3",
+        "song2": "Norway_KyleAlessandro_Lighter.mp3",
+        "winner": "Iceland_VAEB_ROA.mp3",
+        "time": 39.243
+    },
+    {
+        "song1": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "song2": "Italy_LucioCorsi_VolevoEssereUnDuro.mp3",
+        "winner": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "time": 42.266
+    },
+    {
+        "song1": "Norway_KyleAlessandro_Lighter.mp3",
+        "song2": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "winner": "Norway_KyleAlessandro_Lighter.mp3",
+        "time": 44.362
+    },
+    {
+        "song1": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "song2": "Iceland_VAEB_ROA.mp3",
+        "winner": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "time": 46.327
+    },
+    {
+        "song1": "Ireland_EMMY_LaikaParty.mp3",
+        "song2": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "winner": "Ireland_EMMY_LaikaParty.mp3",
+        "time": 91.745
+    },
+    {
+        "song1": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "song2": "Spain_Melody_EsaDiva.mp3",
+        "winner": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "time": 94.191
+    },
+    {
+        "song1": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "song2": "Ireland_EMMY_LaikaParty.mp3",
+        "winner": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "time": 102.591
+    },
+    {
+        "song1": "Ireland_EMMY_LaikaParty.mp3",
+        "song2": "Netherlands_Claude_CestLaVie.mp3",
+        "winner": "Ireland_EMMY_LaikaParty.mp3",
+        "time": 104.537
+    },
+    {
+        "song1": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "song2": "Ireland_EMMY_LaikaParty.mp3",
+        "winner": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "time": 106.498
+    },
+    {
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song2": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "time": 108.605
+    },
+    {
+        "song1": "Belgium_RedSebastian_StrobeLights.mp3",
+        "song2": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "winner": "Belgium_RedSebastian_StrobeLights.mp3",
+        "time": 112.864
     }
 ]
