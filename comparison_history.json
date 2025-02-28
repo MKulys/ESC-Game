@@ -18,9 +18,9 @@
         "time": 185.971
     },
     {
-        "song1": "Australia_gojo_milkshakeman.mp3",
-        "song2": "Azerbaijan_mamagama_RunWithU.mp3",
-        "winner": "Australia_gojo_milkshakeman.mp3",
+        "song1": "Australia_GoJo_MilkshakeMan.mp3",
+        "song2": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "winner": "Australia_GoJo_MilkshakeMan.mp3",
         "time": 222.942
     },
     {
@@ -48,9 +48,9 @@
         "time": 698.601
     },
     {
-        "song1": "Luxemborg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
         "song2": "Italy_LucioCorsi_VolevoEssereUnDuro.mp3",
-        "winner": "Luxemborg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
         "time": 840.9
     },
     {
@@ -67,14 +67,14 @@
     },
     {
         "song1": "Albania_ShkodraElektronike_Zjerm.mp3",
-        "song2": "Australia_gojo_milkshakeman.mp3",
+        "song2": "Australia_GoJo_MilkshakeMan.mp3",
         "winner": "Albania_ShkodraElektronike_Zjerm.mp3",
         "time": 1139.522
     },
     {
-        "song1": "Azerbaijan_mamagama_RunWithU.mp3",
+        "song1": "Azerbaijan_Mamagama_RunWithU.mp3",
         "song2": "Armenia_PARG_Survivor.mp3",
-        "winner": "Azerbaijan_mamagama_RunWithU.mp3",
+        "winner": "Azerbaijan_Mamagama_RunWithU.mp3",
         "time": 1446.282
     },
     {
@@ -132,9 +132,9 @@
         "time": 102.037
     },
     {
-        "song1": "Luxemborg_LauraThorn_LaPoupeeMonteLeSon.mp3",
-        "song2": "Australia_gojo_milkshakeman.mp3",
-        "winner": "Luxemborg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song2": "Australia_GoJo_MilkshakeMan.mp3",
+        "winner": "GoJo_LauraThorn_LaPoupeeMonteLeSon.mp3",
         "time": 198.647
     },
     {
@@ -144,9 +144,9 @@
         "time": 295.393
     },
     {
-        "song1": "Azerbaijan_mamagama_RunWithU.mp3",
+        "song1": "Azerbaijan_Mamagama_RunWithU.mp3",
         "song2": "Greece_Klavdia_Asteromata.mp3",
-        "winner": "Azerbaijan_mamagama_RunWithU.mp3",
+        "winner": "Azerbaijan_Mamagama_RunWithU.mp3",
         "time": 423.137
     },
     {
@@ -180,9 +180,9 @@
         "time": 738.149
     },
     {
-        "song1": "Luxemborg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
         "song2": "Lithuania_Katarsis_TavoAkys.mp3",
-        "winner": "Luxemborg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
         "time": 859.792
     },
     {
@@ -211,7 +211,7 @@
     },
     {
         "song1": "Ukraine_Ziferblat_BirdOfPray.mp3",
-        "song2": "Azerbaijan_mamagama_RunWithU.mp3",
+        "song2": "Azerbaijan_Mamagama_RunWithU.mp3",
         "winner": "Ukraine_Ziferblat_BirdOfPray.mp3",
         "time": 398.124
     },
@@ -244,5 +244,35 @@
         "song2": "Spain_Melody_EsaDiva.mp3",
         "winner": "Ireland_EMMY_LaikaParty.mp3",
         "time": 744.592
+    },
+    {
+        "song1": "Australia_GoJo_MilkshakeMan.mp3",
+        "song2": "Norway_KyleAlessandro_Lighter.mp3",
+        "winner": "Australia_GoJo_MilkshakeMan.mp3",
+        "time": 52.856
+    },
+    {
+        "song1": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "song2": "Italy_LucioCorsi_VolevoEssereUnDuro.mp3",
+        "winner": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "time": 73.196
+    },
+    {
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song2": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "time": 47.347
+    },
+    {
+        "song1": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "song2": "Norway_KyleAlessandro_Lighter.mp3",
+        "winner": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "time": 114.723
+    },
+    {
+        "song1": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "song2": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "winner": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "time": 127.176
     }
 ]

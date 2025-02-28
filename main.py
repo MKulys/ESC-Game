@@ -57,6 +57,36 @@ class SongRanker:
         self.load_listening_stats()
         self.load_comparison_history()
 
+    def format_name_capitalization(self, name):
+        """
+        Format names with special capitalization rules:
+        - Preserve ALL CAPS words
+        - Add spaces before capital letters that follow lowercase letters
+
+        Examples:
+        TwoWords -> Two Words
+        TWOWORDS -> TWOWORDS
+        TwWo -> Tw Wo
+        MultipleCapitalizedWords -> Multiple Capitalized Words
+        nocapitalletters -> nocapitalletters
+        someCapitalizedsomeNot -> some Capitalizedsome Not
+        """
+        # If the name is all uppercase, preserve it
+        if name.isupper():
+            return name
+
+        # Process the name character by character
+        formatted = name[0]  # Start with the first character
+
+        for i in range(1, len(name)):
+            # Add a space before a capital letter if preceded by a lowercase
+            if name[i].isupper() and name[i - 1].islower():
+                formatted += ' ' + name[i]
+            else:
+                formatted += name[i]
+
+        return formatted
+
     def parse_song_info(self, filename):
         """Parse song filename to extract country, artist, and song name."""
         # Remove file extension
@@ -280,17 +310,21 @@ class SongRanker:
             # Parse song information
             country, artist, song_name_parsed = self.parse_song_info(song_name)
 
+            # Format artist and song name with the new capitalization rules
+            if artist:
+                artist = self.format_name_capitalization(artist)
+            if song_name_parsed:
+                song_name_parsed = self.format_name_capitalization(song_name_parsed)
+
             # Song playback information
             if country and artist and song_name_parsed:
-                self.render_text("Now Playing:", self.font_medium, self.BLACK,
-                                 self.screen_width // 2, 50, "center")
                 self.render_text(f"{song_name_parsed}", self.font_medium, self.BLACK,
+                                 self.screen_width // 2, 50, "center")
+                self.render_text(f"by {artist} ({country})", self.font_small, self.DARK_GRAY,
                                  self.screen_width // 2, 80, "center")
-                self.render_text(f"by {artist} from {country}", self.font_small, self.DARK_GRAY,
-                                 self.screen_width // 2, 110, "center")
             else:
                 # Fallback if parsing fails
-                self.render_text(f"Now Playing: {song_name}", self.font_medium, self.BLACK,
+                self.render_text(f"{song_name}", self.font_medium, self.BLACK,
                                  self.screen_width // 2, 50, "center")
 
             # Playback controls guide
