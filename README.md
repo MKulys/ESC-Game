@@ -1,4 +1,4 @@
-# Song Ranker
+# Song Ranker (Eurovision-specific repo)
 
 A very raw and unfinished Python application that helps you discover your favorite songs through pairwise comparisons and keeps track of your listening habits.
 
