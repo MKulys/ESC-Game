@@ -550,5 +550,1421 @@
         "song2": "Norway_KyleAlessandro_Lighter.mp3",
         "winner": "Spain_Melody_EsaDiva.mp3",
         "time": 661.411
+    },
+    {
+        "song1": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "song2": "Armenia_PARG_Survivor.mp3",
+        "winner": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "time": 39.45
+    },
+    {
+        "song1": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "song2": "Iceland_VAEB_ROA.mp3",
+        "winner": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "time": 41.772
+    },
+    {
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song2": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "time": 44.009
+    },
+    {
+        "song1": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "song2": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "winner": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "time": 47.879
+    },
+    {
+        "song1": "Armenia_PARG_Survivor.mp3",
+        "song2": "Italy_LucioCorsi_VolevoEssereUnDuro.mp3",
+        "winner": "Armenia_PARG_Survivor.mp3",
+        "time": 49.821
+    },
+    {
+        "song1": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "song2": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "winner": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "time": 64.26
+    },
+    {
+        "song1": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "song2": "Ireland_EMMY_LaikaParty.mp3",
+        "winner": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "time": 164.169
+    },
+    {
+        "song1": "Norway_KyleAlessandro_Lighter.mp3",
+        "song2": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "winner": "Norway_KyleAlessandro_Lighter.mp3",
+        "time": 166.655
+    },
+    {
+        "song1": "Spain_Melody_EsaDiva.mp3",
+        "song2": "Australia_GoJo_MilkshakeMan.mp3",
+        "winner": "Spain_Melody_EsaDiva.mp3",
+        "time": 168.55
+    },
+    {
+        "song1": "Norway_KyleAlessandro_Lighter.mp3",
+        "song2": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "winner": "Norway_KyleAlessandro_Lighter.mp3",
+        "time": 170.774
+    },
+    {
+        "song1": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "song2": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "winner": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "time": 179.51
+    },
+    {
+        "song1": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "song2": "Spain_Melody_EsaDiva.mp3",
+        "winner": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "time": 181.384
+    },
+    {
+        "song1": "Greece_Klavdia_Asteromata.mp3",
+        "song2": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "winner": "Greece_Klavdia_Asteromata.mp3",
+        "time": 183.862
+    },
+    {
+        "song1": "Netherlands_Claude_CestLaVie.mp3",
+        "song2": "Norway_KyleAlessandro_Lighter.mp3",
+        "winner": "Netherlands_Claude_CestLaVie.mp3",
+        "time": 185.857
+    },
+    {
+        "song1": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "song2": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "winner": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "time": 189.999
+    },
+    {
+        "song1": "Spain_Melody_EsaDiva.mp3",
+        "song2": "Greece_Klavdia_Asteromata.mp3",
+        "winner": "Spain_Melody_EsaDiva.mp3",
+        "time": 192.95
+    },
+    {
+        "song1": "Ireland_EMMY_LaikaParty.mp3",
+        "song2": "Netherlands_Claude_CestLaVie.mp3",
+        "winner": "Ireland_EMMY_LaikaParty.mp3",
+        "time": 194.949
+    },
+    {
+        "song1": "Norway_KyleAlessandro_Lighter.mp3",
+        "song2": "Greece_Klavdia_Asteromata.mp3",
+        "winner": "Norway_KyleAlessandro_Lighter.mp3",
+        "time": 197.773
+    },
+    {
+        "song1": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "song2": "Iceland_VAEB_ROA.mp3",
+        "winner": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "time": 200.362
+    },
+    {
+        "song1": "Iceland_VAEB_ROA.mp3",
+        "song2": "Norway_KyleAlessandro_Lighter.mp3",
+        "winner": "Iceland_VAEB_ROA.mp3",
+        "time": 221.373
+    },
+    {
+        "song1": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "song2": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "winner": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "time": 225.231
+    },
+    {
+        "song1": "Lithuania_Katarsis_TavoAkys.mp3",
+        "song2": "Ireland_EMMY_LaikaParty.mp3",
+        "winner": "Lithuania_Katarsis_TavoAkys.mp3",
+        "time": 229.939
+    },
+    {
+        "song1": "Ireland_EMMY_LaikaParty.mp3",
+        "song2": "Iceland_VAEB_ROA.mp3",
+        "winner": "Ireland_EMMY_LaikaParty.mp3",
+        "time": 232.045
+    },
+    {
+        "song1": "Greece_Klavdia_Asteromata.mp3",
+        "song2": "Malta_MirianaConte_Kant.mp3",
+        "winner": "Greece_Klavdia_Asteromata.mp3",
+        "time": 234.193
+    },
+    {
+        "song1": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "song2": "Italy_LucioCorsi_VolevoEssereUnDuro.mp3",
+        "winner": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "time": 236.274
+    },
+    {
+        "song1": "Netherlands_Claude_CestLaVie.mp3",
+        "song2": "Greece_Klavdia_Asteromata.mp3",
+        "winner": "Netherlands_Claude_CestLaVie.mp3",
+        "time": 239.853
+    },
+    {
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song2": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "time": 242.05
+    },
+    {
+        "song1": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "song2": "Netherlands_Claude_CestLaVie.mp3",
+        "winner": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "time": 244.129
+    },
+    {
+        "song1": "Iceland_VAEB_ROA.mp3",
+        "song2": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "winner": "Iceland_VAEB_ROA.mp3",
+        "time": 245.63
+    },
+    {
+        "song1": "Australia_GoJo_MilkshakeMan.mp3",
+        "song2": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "winner": "Australia_GoJo_MilkshakeMan.mp3",
+        "time": 247.934
+    },
+    {
+        "song1": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "song2": "Spain_Melody_EsaDiva.mp3",
+        "winner": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "time": 249.641
+    },
+    {
+        "song1": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "song2": "Australia_GoJo_MilkshakeMan.mp3",
+        "winner": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "time": 251.557
+    },
+    {
+        "song1": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "song2": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "winner": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "time": 295.93
+    },
+    {
+        "song1": "Lithuania_Katarsis_TavoAkys.mp3",
+        "song2": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "winner": "Lithuania_Katarsis_TavoAkys.mp3",
+        "time": 297.934
+    },
+    {
+        "song1": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "song2": "Australia_GoJo_MilkshakeMan.mp3",
+        "winner": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "time": 299.867
+    },
+    {
+        "song1": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "song2": "Iceland_VAEB_ROA.mp3",
+        "winner": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "time": 301.319
+    },
+    {
+        "song1": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "song2": "Netherlands_Claude_CestLaVie.mp3",
+        "winner": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "time": 303.085
+    },
+    {
+        "song1": "Iceland_VAEB_ROA.mp3",
+        "song2": "Armenia_PARG_Survivor.mp3",
+        "winner": "Iceland_VAEB_ROA.mp3",
+        "time": 305.454
+    },
+    {
+        "song1": "Belgium_RedSebastian_StrobeLights.mp3",
+        "song2": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "winner": "Belgium_RedSebastian_StrobeLights.mp3",
+        "time": 307.03
+    },
+    {
+        "song1": "Malta_MirianaConte_Kant.mp3",
+        "song2": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "winner": "Malta_MirianaConte_Kant.mp3",
+        "time": 327.696
+    },
+    {
+        "song1": "Australia_GoJo_MilkshakeMan.mp3",
+        "song2": "Malta_MirianaConte_Kant.mp3",
+        "winner": "Australia_GoJo_MilkshakeMan.mp3",
+        "time": 330.033
+    },
+    {
+        "song1": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "song2": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "winner": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "time": 331.915
+    },
+    {
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song2": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "time": 334.077
+    },
+    {
+        "song1": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "song2": "Italy_LucioCorsi_VolevoEssereUnDuro.mp3",
+        "winner": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "time": 335.978
+    },
+    {
+        "song1": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "song2": "Norway_KyleAlessandro_Lighter.mp3",
+        "winner": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "time": 340.169
+    },
+    {
+        "song1": "Norway_KyleAlessandro_Lighter.mp3",
+        "song2": "Malta_MirianaConte_Kant.mp3",
+        "winner": "Norway_KyleAlessandro_Lighter.mp3",
+        "time": 343.54
+    },
+    {
+        "song1": "Spain_Melody_EsaDiva.mp3",
+        "song2": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "winner": "Spain_Melody_EsaDiva.mp3",
+        "time": 345.195
+    },
+    {
+        "song1": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "song2": "Iceland_VAEB_ROA.mp3",
+        "winner": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "time": 346.788
+    },
+    {
+        "song1": "Ireland_EMMY_LaikaParty.mp3",
+        "song2": "Norway_KyleAlessandro_Lighter.mp3",
+        "winner": "Ireland_EMMY_LaikaParty.mp3",
+        "time": 348.628
+    },
+    {
+        "song1": "Ireland_EMMY_LaikaParty.mp3",
+        "song2": "Australia_GoJo_MilkshakeMan.mp3",
+        "winner": "Ireland_EMMY_LaikaParty.mp3",
+        "time": 351.146
+    },
+    {
+        "song1": "Spain_Melody_EsaDiva.mp3",
+        "song2": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "winner": "Spain_Melody_EsaDiva.mp3",
+        "time": 352.907
+    },
+    {
+        "song1": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "song2": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "winner": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "time": 356.676
+    },
+    {
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song2": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "time": 358.458
+    },
+    {
+        "song1": "Netherlands_Claude_CestLaVie.mp3",
+        "song2": "Malta_MirianaConte_Kant.mp3",
+        "winner": "Netherlands_Claude_CestLaVie.mp3",
+        "time": 360.361
+    },
+    {
+        "song1": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "song2": "Netherlands_Claude_CestLaVie.mp3",
+        "winner": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "time": 361.829
+    },
+    {
+        "song1": "Belgium_RedSebastian_StrobeLights.mp3",
+        "song2": "Spain_Melody_EsaDiva.mp3",
+        "winner": "Belgium_RedSebastian_StrobeLights.mp3",
+        "time": 363.219
+    },
+    {
+        "song1": "Belgium_RedSebastian_StrobeLights.mp3",
+        "song2": "Ireland_EMMY_LaikaParty.mp3",
+        "winner": "Belgium_RedSebastian_StrobeLights.mp3",
+        "time": 365.161
+    },
+    {
+        "song1": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "song2": "Norway_KyleAlessandro_Lighter.mp3",
+        "winner": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "time": 368.962
+    },
+    {
+        "song1": "Australia_GoJo_MilkshakeMan.mp3",
+        "song2": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "winner": "Australia_GoJo_MilkshakeMan.mp3",
+        "time": 370.494
+    },
+    {
+        "song1": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "song2": "Armenia_PARG_Survivor.mp3",
+        "winner": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "time": 372.12
+    },
+    {
+        "song1": "Greece_Klavdia_Asteromata.mp3",
+        "song2": "Italy_LucioCorsi_VolevoEssereUnDuro.mp3",
+        "winner": "Greece_Klavdia_Asteromata.mp3",
+        "time": 373.999
+    },
+    {
+        "song1": "Ireland_EMMY_LaikaParty.mp3",
+        "song2": "Greece_Klavdia_Asteromata.mp3",
+        "winner": "Ireland_EMMY_LaikaParty.mp3",
+        "time": 375.48
+    },
+    {
+        "song1": "Lithuania_Katarsis_TavoAkys.mp3",
+        "song2": "Netherlands_Claude_CestLaVie.mp3",
+        "winner": "Lithuania_Katarsis_TavoAkys.mp3",
+        "time": 377.21
+    },
+    {
+        "song1": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "song2": "Australia_GoJo_MilkshakeMan.mp3",
+        "winner": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "time": 378.928
+    },
+    {
+        "song1": "Australia_GoJo_MilkshakeMan.mp3",
+        "song2": "Italy_LucioCorsi_VolevoEssereUnDuro.mp3",
+        "winner": "Australia_GoJo_MilkshakeMan.mp3",
+        "time": 380.695
+    },
+    {
+        "song1": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "song2": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "winner": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "time": 382.253
+    },
+    {
+        "song1": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "song2": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "winner": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "time": 384.004
+    },
+    {
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song2": "Spain_Melody_EsaDiva.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "time": 386.559
+    },
+    {
+        "song1": "Iceland_VAEB_ROA.mp3",
+        "song2": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "winner": "Iceland_VAEB_ROA.mp3",
+        "time": 388.229
+    },
+    {
+        "song1": "Spain_Melody_EsaDiva.mp3",
+        "song2": "Malta_MirianaConte_Kant.mp3",
+        "winner": "Spain_Melody_EsaDiva.mp3",
+        "time": 389.949
+    },
+    {
+        "song1": "Ireland_EMMY_LaikaParty.mp3",
+        "song2": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "winner": "Ireland_EMMY_LaikaParty.mp3",
+        "time": 392.307
+    },
+    {
+        "song1": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "song2": "Norway_KyleAlessandro_Lighter.mp3",
+        "winner": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "time": 393.828
+    },
+    {
+        "song1": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "song2": "Greece_Klavdia_Asteromata.mp3",
+        "winner": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "time": 395.244
+    },
+    {
+        "song1": "Lithuania_Katarsis_TavoAkys.mp3",
+        "song2": "Australia_GoJo_MilkshakeMan.mp3",
+        "winner": "Lithuania_Katarsis_TavoAkys.mp3",
+        "time": 396.792
+    },
+    {
+        "song1": "Ireland_EMMY_LaikaParty.mp3",
+        "song2": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "winner": "Ireland_EMMY_LaikaParty.mp3",
+        "time": 398.569
+    },
+    {
+        "song1": "Netherlands_Claude_CestLaVie.mp3",
+        "song2": "Italy_LucioCorsi_VolevoEssereUnDuro.mp3",
+        "winner": "Netherlands_Claude_CestLaVie.mp3",
+        "time": 400.288
+    },
+    {
+        "song1": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "song2": "Armenia_PARG_Survivor.mp3",
+        "winner": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "time": 401.938
+    },
+    {
+        "song1": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "song2": "Greece_Klavdia_Asteromata.mp3",
+        "winner": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "time": 403.406
+    },
+    {
+        "song1": "Belgium_RedSebastian_StrobeLights.mp3",
+        "song2": "Iceland_VAEB_ROA.mp3",
+        "winner": "Belgium_RedSebastian_StrobeLights.mp3",
+        "time": 404.834
+    },
+    {
+        "song1": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "song2": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "winner": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "time": 406.48
+    },
+    {
+        "song1": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "song2": "Malta_MirianaConte_Kant.mp3",
+        "winner": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "time": 408.295
+    },
+    {
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song2": "Netherlands_Claude_CestLaVie.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "time": 409.912
+    },
+    {
+        "song1": "Iceland_VAEB_ROA.mp3",
+        "song2": "Italy_LucioCorsi_VolevoEssereUnDuro.mp3",
+        "winner": "Iceland_VAEB_ROA.mp3",
+        "time": 411.492
+    },
+    {
+        "song1": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "song2": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "winner": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "time": 412.866
+    },
+    {
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song2": "Iceland_VAEB_ROA.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "time": 414.369
+    },
+    {
+        "song1": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "song2": "Armenia_PARG_Survivor.mp3",
+        "winner": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "time": 415.876
+    },
+    {
+        "song1": "Spain_Melody_EsaDiva.mp3",
+        "song2": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "winner": "Spain_Melody_EsaDiva.mp3",
+        "time": 417.353
+    },
+    {
+        "song1": "Lithuania_Katarsis_TavoAkys.mp3",
+        "song2": "Norway_KyleAlessandro_Lighter.mp3",
+        "winner": "Lithuania_Katarsis_TavoAkys.mp3",
+        "time": 418.82
+    },
+    {
+        "song1": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "song2": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "winner": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "time": 420.069
+    },
+    {
+        "song1": "Ireland_EMMY_LaikaParty.mp3",
+        "song2": "Armenia_PARG_Survivor.mp3",
+        "winner": "Ireland_EMMY_LaikaParty.mp3",
+        "time": 421.622
+    },
+    {
+        "song1": "Lithuania_Katarsis_TavoAkys.mp3",
+        "song2": "Greece_Klavdia_Asteromata.mp3",
+        "winner": "Lithuania_Katarsis_TavoAkys.mp3",
+        "time": 423.298
+    },
+    {
+        "song1": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "song2": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "winner": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "time": 424.754
+    },
+    {
+        "song1": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "song2": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "winner": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "time": 426.217
+    },
+    {
+        "song1": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "song2": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "winner": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "time": 476.092
+    },
+    {
+        "song1": "Belgium_RedSebastian_StrobeLights.mp3",
+        "song2": "Australia_GoJo_MilkshakeMan.mp3",
+        "winner": "Belgium_RedSebastian_StrobeLights.mp3",
+        "time": 477.486
+    },
+    {
+        "song1": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "song2": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "winner": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "time": 478.914
+    },
+    {
+        "song1": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "song2": "Armenia_PARG_Survivor.mp3",
+        "winner": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "time": 480.129
+    },
+    {
+        "song1": "Spain_Melody_EsaDiva.mp3",
+        "song2": "Italy_LucioCorsi_VolevoEssereUnDuro.mp3",
+        "winner": "Spain_Melody_EsaDiva.mp3",
+        "time": 481.57
+    },
+    {
+        "song1": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "song2": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "winner": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "time": 482.895
+    },
+    {
+        "song1": "Lithuania_Katarsis_TavoAkys.mp3",
+        "song2": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "winner": "Lithuania_Katarsis_TavoAkys.mp3",
+        "time": 484.389
+    },
+    {
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song2": "Greece_Klavdia_Asteromata.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "time": 485.839
+    },
+    {
+        "song1": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "song2": "Malta_MirianaConte_Kant.mp3",
+        "winner": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "time": 487.328
+    },
+    {
+        "song1": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "song2": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "winner": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "time": 488.825
+    },
+    {
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song2": "Norway_KyleAlessandro_Lighter.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "time": 490.231
+    },
+    {
+        "song1": "Belgium_RedSebastian_StrobeLights.mp3",
+        "song2": "Netherlands_Claude_CestLaVie.mp3",
+        "winner": "Belgium_RedSebastian_StrobeLights.mp3",
+        "time": 491.698
+    },
+    {
+        "song1": "Belgium_RedSebastian_StrobeLights.mp3",
+        "song2": "Greece_Klavdia_Asteromata.mp3",
+        "winner": "Belgium_RedSebastian_StrobeLights.mp3",
+        "time": 493.226
+    },
+    {
+        "song1": "Lithuania_Katarsis_TavoAkys.mp3",
+        "song2": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "winner": "Lithuania_Katarsis_TavoAkys.mp3",
+        "time": 494.613
+    },
+    {
+        "song1": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "song2": "Armenia_PARG_Survivor.mp3",
+        "winner": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "time": 496.125
+    },
+    {
+        "song1": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "song2": "Italy_LucioCorsi_VolevoEssereUnDuro.mp3",
+        "winner": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "time": 497.589
+    },
+    {
+        "song1": "Lithuania_Katarsis_TavoAkys.mp3",
+        "song2": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "winner": "Lithuania_Katarsis_TavoAkys.mp3",
+        "time": 499.231
+    },
+    {
+        "song1": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "song2": "Malta_MirianaConte_Kant.mp3",
+        "winner": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "time": 500.612
+    },
+    {
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song2": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "time": 501.888
+    },
+    {
+        "song1": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "song2": "Italy_LucioCorsi_VolevoEssereUnDuro.mp3",
+        "winner": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "time": 504.246
+    },
+    {
+        "song1": "Belgium_RedSebastian_StrobeLights.mp3",
+        "song2": "Norway_KyleAlessandro_Lighter.mp3",
+        "winner": "Belgium_RedSebastian_StrobeLights.mp3",
+        "time": 505.763
+    },
+    {
+        "song1": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "song2": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "winner": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "time": 507.391
+    },
+    {
+        "song1": "Lithuania_Katarsis_TavoAkys.mp3",
+        "song2": "Armenia_PARG_Survivor.mp3",
+        "winner": "Lithuania_Katarsis_TavoAkys.mp3",
+        "time": 508.792
+    },
+    {
+        "song1": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "song2": "Malta_MirianaConte_Kant.mp3",
+        "winner": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "time": 510.328
+    },
+    {
+        "song1": "Ireland_EMMY_LaikaParty.mp3",
+        "song2": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "winner": "Ireland_EMMY_LaikaParty.mp3",
+        "time": 512.14
+    },
+    {
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song2": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "time": 513.906
+    },
+    {
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song2": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "time": 515.459
+    },
+    {
+        "song1": "Belgium_RedSebastian_StrobeLights.mp3",
+        "song2": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "winner": "Belgium_RedSebastian_StrobeLights.mp3",
+        "time": 516.938
+    },
+    {
+        "song1": "Belgium_RedSebastian_StrobeLights.mp3",
+        "song2": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "winner": "Belgium_RedSebastian_StrobeLights.mp3",
+        "time": 518.373
+    },
+    {
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song2": "Armenia_PARG_Survivor.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "time": 519.932
+    },
+    {
+        "song1": "Belgium_RedSebastian_StrobeLights.mp3",
+        "song2": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "winner": "Belgium_RedSebastian_StrobeLights.mp3",
+        "time": 521.614
+    },
+    {
+        "song1": "Ireland_EMMY_LaikaParty.mp3",
+        "song2": "Italy_LucioCorsi_VolevoEssereUnDuro.mp3",
+        "winner": "Ireland_EMMY_LaikaParty.mp3",
+        "time": 523.235
+    },
+    {
+        "song1": "Lithuania_Katarsis_TavoAkys.mp3",
+        "song2": "Malta_MirianaConte_Kant.mp3",
+        "winner": "Lithuania_Katarsis_TavoAkys.mp3",
+        "time": 524.629
+    },
+    {
+        "song1": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "song2": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "winner": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "time": 525.897
+    },
+    {
+        "song1": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "song2": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "winner": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "time": 527.141
+    },
+    {
+        "song1": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "song2": "Italy_LucioCorsi_VolevoEssereUnDuro.mp3",
+        "winner": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "time": 528.504
+    },
+    {
+        "song1": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "song2": "Italy_LucioCorsi_VolevoEssereUnDuro.mp3",
+        "winner": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "time": 530.139
+    },
+    {
+        "song1": "Belgium_RedSebastian_StrobeLights.mp3",
+        "song2": "Armenia_PARG_Survivor.mp3",
+        "winner": "Belgium_RedSebastian_StrobeLights.mp3",
+        "time": 531.882
+    },
+    {
+        "song1": "Belgium_RedSebastian_StrobeLights.mp3",
+        "song2": "Malta_MirianaConte_Kant.mp3",
+        "winner": "Belgium_RedSebastian_StrobeLights.mp3",
+        "time": 533.222
+    },
+    {
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song2": "Malta_MirianaConte_Kant.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "time": 534.356
+    },
+    {
+        "song1": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "song2": "Italy_LucioCorsi_VolevoEssereUnDuro.mp3",
+        "winner": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "time": 535.757
+    },
+    {
+        "song1": "Lithuania_Katarsis_TavoAkys.mp3",
+        "song2": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "winner": "Lithuania_Katarsis_TavoAkys.mp3",
+        "time": 538.004
+    },
+    {
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song2": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "time": 539.156
+    },
+    {
+        "song1": "Lithuania_Katarsis_TavoAkys.mp3",
+        "song2": "Italy_LucioCorsi_VolevoEssereUnDuro.mp3",
+        "winner": "Lithuania_Katarsis_TavoAkys.mp3",
+        "time": 542.195
+    },
+    {
+        "song1": "Belgium_RedSebastian_StrobeLights.mp3",
+        "song2": "Italy_LucioCorsi_VolevoEssereUnDuro.mp3",
+        "winner": "Belgium_RedSebastian_StrobeLights.mp3",
+        "time": 543.886
+    },
+    {
+        "song1": "Greece_Klavdia_Asteromata.mp3",
+        "song2": "Norway_KyleAlessandro_Lighter.mp3",
+        "winner": "Greece_Klavdia_Asteromata.mp3",
+        "time": 555.919
+    },
+    {
+        "song1": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "song2": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "winner": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "time": 579.407
+    },
+    {
+        "song1": "Armenia_PARG_Survivor.mp3",
+        "song2": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "winner": "Armenia_PARG_Survivor.mp3",
+        "time": 617.093
+    },
+    {
+        "song1": "Netherlands_Claude_CestLaVie.mp3",
+        "song2": "Australia_GoJo_MilkshakeMan.mp3",
+        "winner": "Netherlands_Claude_CestLaVie.mp3",
+        "time": 626.262
+    },
+    {
+        "song1": "Belgium_RedSebastian_StrobeLights.mp3",
+        "song2": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "winner": "Belgium_RedSebastian_StrobeLights.mp3",
+        "time": 627.776
+    },
+    {
+        "song1": "Netherlands_Claude_CestLaVie.mp3",
+        "song2": "Iceland_VAEB_ROA.mp3",
+        "winner": "Netherlands_Claude_CestLaVie.mp3",
+        "time": 654.505
+    },
+    {
+        "song1": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "song2": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "winner": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "time": 688.926
+    },
+    {
+        "song1": "Armenia_PARG_Survivor.mp3",
+        "song2": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "winner": "Armenia_PARG_Survivor.mp3",
+        "time": 694.772
+    },
+    {
+        "song1": "Greece_Klavdia_Asteromata.mp3",
+        "song2": "Australia_GoJo_MilkshakeMan.mp3",
+        "winner": "Greece_Klavdia_Asteromata.mp3",
+        "time": 740.952
+    },
+    {
+        "song1": "Malta_MirianaConte_Kant.mp3",
+        "song2": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "winner": "Malta_MirianaConte_Kant.mp3",
+        "time": 755.926
+    },
+    {
+        "song1": "Norway_KyleAlessandro_Lighter.mp3",
+        "song2": "Armenia_PARG_Survivor.mp3",
+        "winner": "Norway_KyleAlessandro_Lighter.mp3",
+        "time": 757.407
+    },
+    {
+        "song1": "Malta_MirianaConte_Kant.mp3",
+        "song2": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "winner": "Malta_MirianaConte_Kant.mp3",
+        "time": 777.832
+    },
+    {
+        "song1": "Norway_KyleAlessandro_Lighter.mp3",
+        "song2": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "winner": "Norway_KyleAlessandro_Lighter.mp3",
+        "time": 780.339
+    },
+    {
+        "song1": "Malta_MirianaConte_Kant.mp3",
+        "song2": "Armenia_PARG_Survivor.mp3",
+        "winner": "Malta_MirianaConte_Kant.mp3",
+        "time": 784.389
+    },
+    {
+        "song1": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "song2": "Ireland_EMMY_LaikaParty.mp3",
+        "winner": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "time": 795.278
+    },
+    {
+        "song1": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "song2": "Malta_MirianaConte_Kant.mp3",
+        "winner": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "time": 803.683
+    },
+    {
+        "song1": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "song2": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "winner": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "time": 806.419
+    },
+    {
+        "song1": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "song2": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "winner": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "time": 824.583
+    },
+    {
+        "song1": "Norway_KyleAlessandro_Lighter.mp3",
+        "song2": "Australia_GoJo_MilkshakeMan.mp3",
+        "winner": "Norway_KyleAlessandro_Lighter.mp3",
+        "time": 827.455
+    },
+    {
+        "song1": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "song2": "Lithuania_Katarsis_TavoAkys.mp3",
+        "winner": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "time": 862.255
+    },
+    {
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song2": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "time": 925.015
+    },
+    {
+        "song1": "Australia_GoJo_MilkshakeMan.mp3",
+        "song2": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "winner": "Australia_GoJo_MilkshakeMan.mp3",
+        "time": 928.361
+    },
+    {
+        "song1": "Belgium_RedSebastian_StrobeLights.mp3",
+        "song2": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "winner": "Belgium_RedSebastian_StrobeLights.mp3",
+        "time": 937.814
+    },
+    {
+        "song1": "Ireland_EMMY_LaikaParty.mp3",
+        "song2": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "winner": "Ireland_EMMY_LaikaParty.mp3",
+        "time": 958.638
+    },
+    {
+        "song1": "Iceland_VAEB_ROA.mp3",
+        "song2": "Norway_KyleAlessandro_Lighter.mp3",
+        "winner": "Iceland_VAEB_ROA.mp3",
+        "time": 966.566
+    },
+    {
+        "song1": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "song2": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "winner": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "time": 969.191
+    },
+    {
+        "song1": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "song2": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "winner": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "time": 972.513
+    },
+    {
+        "song1": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "song2": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "winner": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "time": 1021.558
+    },
+    {
+        "song1": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "song2": "Italy_LucioCorsi_VolevoEssereUnDuro.mp3",
+        "winner": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "time": 1024.452
+    },
+    {
+        "song1": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "song2": "Spain_Melody_EsaDiva.mp3",
+        "winner": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "time": 1027.972
+    },
+    {
+        "song1": "Spain_Melody_EsaDiva.mp3",
+        "song2": "Netherlands_Claude_CestLaVie.mp3",
+        "winner": "Spain_Melody_EsaDiva.mp3",
+        "time": 1030.274
+    },
+    {
+        "song1": "Ireland_EMMY_LaikaParty.mp3",
+        "song2": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "winner": "Ireland_EMMY_LaikaParty.mp3",
+        "time": 1036.012
+    },
+    {
+        "song1": "Lithuania_Katarsis_TavoAkys.mp3",
+        "song2": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "winner": "Lithuania_Katarsis_TavoAkys.mp3",
+        "time": 1049.369
+    },
+    {
+        "song1": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "song2": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "winner": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "time": 1055.219
+    },
+    {
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song2": "Lithuania_Katarsis_TavoAkys.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "time": 1058.071
+    },
+    {
+        "song1": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "song2": "Ireland_EMMY_LaikaParty.mp3",
+        "winner": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "time": 1060.87
+    },
+    {
+        "song1": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "song2": "Spain_Melody_EsaDiva.mp3",
+        "winner": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "time": 1065.993
+    },
+    {
+        "song1": "Netherlands_Claude_CestLaVie.mp3",
+        "song2": "Greece_Klavdia_Asteromata.mp3",
+        "winner": "Netherlands_Claude_CestLaVie.mp3",
+        "time": 1094.591
+    },
+    {
+        "song1": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "song2": "Armenia_PARG_Survivor.mp3",
+        "winner": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "time": 1096.765
+    },
+    {
+        "song1": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "song2": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "winner": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "time": 1098.674
+    },
+    {
+        "song1": "Greece_Klavdia_Asteromata.mp3",
+        "song2": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "winner": "Greece_Klavdia_Asteromata.mp3",
+        "time": 1100.291
+    },
+    {
+        "song1": "Greece_Klavdia_Asteromata.mp3",
+        "song2": "Iceland_VAEB_ROA.mp3",
+        "winner": "Greece_Klavdia_Asteromata.mp3",
+        "time": 1107.171
+    },
+    {
+        "song1": "Iceland_VAEB_ROA.mp3",
+        "song2": "Australia_GoJo_MilkshakeMan.mp3",
+        "winner": "Iceland_VAEB_ROA.mp3",
+        "time": 1109.681
+    },
+    {
+        "song1": "Australia_GoJo_MilkshakeMan.mp3",
+        "song2": "Malta_MirianaConte_Kant.mp3",
+        "winner": "Australia_GoJo_MilkshakeMan.mp3",
+        "time": 1111.207
+    },
+    {
+        "song1": "Spain_Melody_EsaDiva.mp3",
+        "song2": "Iceland_VAEB_ROA.mp3",
+        "winner": "Spain_Melody_EsaDiva.mp3",
+        "time": 1116.343
+    },
+    {
+        "song1": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "song2": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "winner": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "time": 1118.372
+    },
+    {
+        "song1": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "song2": "Netherlands_Claude_CestLaVie.mp3",
+        "winner": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "time": 1121.713
+    },
+    {
+        "song1": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "song2": "Lithuania_Katarsis_TavoAkys.mp3",
+        "winner": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "time": 1144.137
+    },
+    {
+        "song1": "Netherlands_Claude_CestLaVie.mp3",
+        "song2": "Norway_KyleAlessandro_Lighter.mp3",
+        "winner": "Netherlands_Claude_CestLaVie.mp3",
+        "time": 1146.06
+    },
+    {
+        "song1": "Spain_Melody_EsaDiva.mp3",
+        "song2": "Greece_Klavdia_Asteromata.mp3",
+        "winner": "Spain_Melody_EsaDiva.mp3",
+        "time": 1147.692
+    },
+    {
+        "song1": "Lithuania_Katarsis_TavoAkys.mp3",
+        "song2": "Ireland_EMMY_LaikaParty.mp3",
+        "winner": "Lithuania_Katarsis_TavoAkys.mp3",
+        "time": 1167.647
+    },
+    {
+        "song1": "Armenia_PARG_Survivor.mp3",
+        "song2": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "winner": "Armenia_PARG_Survivor.mp3",
+        "time": 1169.771
+    },
+    {
+        "song1": "Armenia_PARG_Survivor.mp3",
+        "song2": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "winner": "Armenia_PARG_Survivor.mp3",
+        "time": 1199.144
+    },
+    {
+        "song1": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "song2": "Lithuania_Katarsis_TavoAkys.mp3",
+        "winner": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "time": 1228.434
+    },
+    {
+        "song1": "Armenia_PARG_Survivor.mp3",
+        "song2": "Australia_GoJo_MilkshakeMan.mp3",
+        "winner": "Armenia_PARG_Survivor.mp3",
+        "time": 1229.015
+    },
+    {
+        "song1": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "song2": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "winner": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "time": 1232.897
+    },
+    {
+        "song1": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "song2": "Armenia_PARG_Survivor.mp3",
+        "winner": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "time": 1236.538
+    },
+    {
+        "song1": "Belgium_RedSebastian_StrobeLights.mp3",
+        "song2": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "winner": "Belgium_RedSebastian_StrobeLights.mp3",
+        "time": 1238.915
+    },
+    {
+        "song1": "Australia_GoJo_MilkshakeMan.mp3",
+        "song2": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "winner": "Australia_GoJo_MilkshakeMan.mp3",
+        "time": 1241.999
+    },
+    {
+        "song1": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "song2": "Netherlands_Claude_CestLaVie.mp3",
+        "winner": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "time": 1244.211
+    },
+    {
+        "song1": "Norway_KyleAlessandro_Lighter.mp3",
+        "song2": "Australia_GoJo_MilkshakeMan.mp3",
+        "winner": "Norway_KyleAlessandro_Lighter.mp3",
+        "time": 1247.227
+    },
+    {
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song2": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "time": 1249.028
+    },
+    {
+        "song1": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "song2": "Lithuania_Katarsis_TavoAkys.mp3",
+        "winner": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "time": 1251.421
+    },
+    {
+        "song1": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "song2": "Lithuania_Katarsis_TavoAkys.mp3",
+        "winner": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "time": 1254.928
+    },
+    {
+        "song1": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "song2": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "winner": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "time": 1258.748
+    },
+    {
+        "song1": "Ireland_EMMY_LaikaParty.mp3",
+        "song2": "Spain_Melody_EsaDiva.mp3",
+        "winner": "Ireland_EMMY_LaikaParty.mp3",
+        "time": 1261.092
+    },
+    {
+        "song1": "Lithuania_Katarsis_TavoAkys.mp3",
+        "song2": "Ireland_EMMY_LaikaParty.mp3",
+        "winner": "Lithuania_Katarsis_TavoAkys.mp3",
+        "time": 1265.662
+    },
+    {
+        "song1": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "song2": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "winner": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "time": 1268.296
+    },
+    {
+        "song1": "Lithuania_Katarsis_TavoAkys.mp3",
+        "song2": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "winner": "Lithuania_Katarsis_TavoAkys.mp3",
+        "time": 1271.203
+    },
+    {
+        "song1": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "song2": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "winner": "Finland_ErikaVilkman_ICHKOMME.mp3",
+        "time": 1278.817
+    },
+    {
+        "song1": "Greece_Klavdia_Asteromata.mp3",
+        "song2": "Iceland_VAEB_ROA.mp3",
+        "winner": "Greece_Klavdia_Asteromata.mp3",
+        "time": 1295.066
+    },
+    {
+        "song1": "Ireland_EMMY_LaikaParty.mp3",
+        "song2": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "winner": "Ireland_EMMY_LaikaParty.mp3",
+        "time": 1345.28
+    },
+    {
+        "song1": "Iceland_VAEB_ROA.mp3",
+        "song2": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "winner": "Iceland_VAEB_ROA.mp3",
+        "time": 1347.252
+    },
+    {
+        "song1": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "song2": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "winner": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "time": 1349.243
+    },
+    {
+        "song1": "Netherlands_Claude_CestLaVie.mp3",
+        "song2": "Greece_Klavdia_Asteromata.mp3",
+        "winner": "Netherlands_Claude_CestLaVie.mp3",
+        "time": 1350.913
+    },
+    {
+        "song1": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "song2": "Latvia_Tautumeitas_BurManLaimi.mp3",
+        "winner": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "time": 1352.449
+    },
+    {
+        "song1": "Australia_GoJo_MilkshakeMan.mp3",
+        "song2": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "winner": "Australia_GoJo_MilkshakeMan.mp3",
+        "time": 1354.413
+    },
+    {
+        "song1": "Malta_MirianaConte_Kant.mp3",
+        "song2": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "winner": "Malta_MirianaConte_Kant.mp3",
+        "time": 1362.753
+    },
+    {
+        "song1": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "song2": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "winner": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "time": 1366.195
+    },
+    {
+        "song1": "Belgium_RedSebastian_StrobeLights.mp3",
+        "song2": "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3",
+        "winner": "Belgium_RedSebastian_StrobeLights.mp3",
+        "time": 1412.583
+    },
+    {
+        "song1": "Armenia_PARG_Survivor.mp3",
+        "song2": "Malta_MirianaConte_Kant.mp3",
+        "winner": "Armenia_PARG_Survivor.mp3",
+        "time": 1420.092
+    },
+    {
+        "song1": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "song2": "Italy_LucioCorsi_VolevoEssereUnDuro.mp3",
+        "winner": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "time": 1422.647
+    },
+    {
+        "song1": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "song2": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "winner": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "time": 1441.504
+    },
+    {
+        "song1": "Greece_Klavdia_Asteromata.mp3",
+        "song2": "Armenia_PARG_Survivor.mp3",
+        "winner": "Greece_Klavdia_Asteromata.mp3",
+        "time": 1443.367
+    },
+    {
+        "song1": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "song2": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "winner": "Estonia_TommyCash_EsspresoMacchiato.mp3",
+        "time": 1446.968
+    },
+    {
+        "song1": "Iceland_VAEB_ROA.mp3",
+        "song2": "Armenia_PARG_Survivor.mp3",
+        "winner": "Iceland_VAEB_ROA.mp3",
+        "time": 1448.543
+    },
+    {
+        "song1": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "song2": "Spain_Melody_EsaDiva.mp3",
+        "winner": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "time": 1499.125
+    },
+    {
+        "song1": "Spain_Melody_EsaDiva.mp3",
+        "song2": "Netherlands_Claude_CestLaVie.mp3",
+        "winner": "Spain_Melody_EsaDiva.mp3",
+        "time": 1503.461
+    },
+    {
+        "song1": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "song2": "Greece_Klavdia_Asteromata.mp3",
+        "winner": "Albania_ShkodraElektronike_Zjerm.mp3",
+        "time": 1508.967
+    },
+    {
+        "song1": "Norway_KyleAlessandro_Lighter.mp3",
+        "song2": "Malta_MirianaConte_Kant.mp3",
+        "winner": "Norway_KyleAlessandro_Lighter.mp3",
+        "time": 1510.726
+    },
+    {
+        "song1": "Malta_MirianaConte_Kant.mp3",
+        "song2": "Montenegro_NinaZizic_Dobrodosli.mp3",
+        "winner": "Malta_MirianaConte_Kant.mp3",
+        "time": 1529.602
+    },
+    {
+        "song1": "Spain_Melody_EsaDiva.mp3",
+        "song2": "Norway_KyleAlessandro_Lighter.mp3",
+        "winner": "Spain_Melody_EsaDiva.mp3",
+        "time": 1531.547
+    },
+    {
+        "song1": "Netherlands_Claude_CestLaVie.mp3",
+        "song2": "Iceland_VAEB_ROA.mp3",
+        "winner": "Netherlands_Claude_CestLaVie.mp3",
+        "time": 1533.545
+    },
+    {
+        "song1": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "song2": "Malta_MirianaConte_Kant.mp3",
+        "winner": "Azerbaijan_Mamagama_RunWithU.mp3",
+        "time": 1536.759
+    },
+    {
+        "song1": "Greece_Klavdia_Asteromata.mp3",
+        "song2": "Norway_KyleAlessandro_Lighter.mp3",
+        "winner": "Greece_Klavdia_Asteromata.mp3",
+        "time": 1565.612
+    },
+    {
+        "song1": "Norway_KyleAlessandro_Lighter.mp3",
+        "song2": "Poland_JustynaSteczkowska_GAJA.mp3",
+        "winner": "Norway_KyleAlessandro_Lighter.mp3",
+        "time": 1567.24
+    },
+    {
+        "song1": "Malta_MirianaConte_Kant.mp3",
+        "song2": "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3",
+        "winner": "Malta_MirianaConte_Kant.mp3",
+        "time": 1569.383
+    },
+    {
+        "song1": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "song2": "Greece_Klavdia_Asteromata.mp3",
+        "winner": "Ukraine_Ziferblat_BirdOfPray.mp3",
+        "time": 1571.087
     }
 ]

@@ -1,112 +1,112 @@
 {
     "Albania_ShkodraElektronike_Zjerm.mp3": {
-        "rating": 1024.2260929830131,
-        "uncertainty": 23.124534981791882,
-        "comparisons": 9
+        "rating": 1076.6830224493576,
+        "uncertainty": 15,
+        "comparisons": 30
     },
     "Armenia_PARG_Survivor.mp3": {
-        "rating": 934.6898349005984,
-        "uncertainty": 22.720143588905888,
-        "comparisons": 9
+        "rating": 860.0698168470602,
+        "uncertainty": 15,
+        "comparisons": 33
     },
     "Australia_GoJo_MilkshakeMan.mp3": {
-        "rating": 997.130024183093,
-        "uncertainty": 19.457113827846364,
-        "comparisons": 10
+        "rating": 915.909551628691,
+        "uncertainty": 15,
+        "comparisons": 31
     },
     "Azerbaijan_Mamagama_RunWithU.mp3": {
-        "rating": 932.8337543443312,
-        "uncertainty": 22.91776740314782,
-        "comparisons": 9
+        "rating": 887.6677940421688,
+        "uncertainty": 15,
+        "comparisons": 32
     },
     "Belgium_RedSebastian_StrobeLights.mp3": {
-        "rating": 1141.2339036570909,
-        "uncertainty": 37.35983228617336,
-        "comparisons": 6
+        "rating": 1299.1150852426338,
+        "uncertainty": 15,
+        "comparisons": 24
     },
     "Estonia_TommyCash_EsspresoMacchiato.mp3": {
-        "rating": 1049.6662609337857,
-        "uncertainty": 26.988379141709075,
-        "comparisons": 8
+        "rating": 1171.5956874927738,
+        "uncertainty": 15,
+        "comparisons": 31
     },
     "Finland_ErikaVilkman_ICHKOMME.mp3": {
-        "rating": 1064.6332457751364,
-        "uncertainty": 23.084161397573077,
-        "comparisons": 9
+        "rating": 1215.7584171397161,
+        "uncertainty": 15,
+        "comparisons": 28
     },
     "Greece_Klavdia_Asteromata.mp3": {
-        "rating": 977.8402586370432,
-        "uncertainty": 23.12806522553213,
-        "comparisons": 9
+        "rating": 962.9189639463024,
+        "uncertainty": 15,
+        "comparisons": 33
     },
     "Iceland_VAEB_ROA.mp3": {
-        "rating": 1020.3261046327195,
-        "uncertainty": 23.132690028779496,
-        "comparisons": 9
+        "rating": 958.403414017276,
+        "uncertainty": 15,
+        "comparisons": 30
     },
     "Ireland_EMMY_LaikaParty.mp3": {
-        "rating": 1047.918355544886,
-        "uncertainty": 27.231333022765405,
-        "comparisons": 8
+        "rating": 1114.8566192934677,
+        "uncertainty": 15,
+        "comparisons": 29
     },
     "Italy_LucioCorsi_VolevoEssereUnDuro.mp3": {
-        "rating": 883.2294805297291,
-        "uncertainty": 43.57287007245596,
-        "comparisons": 5
+        "rating": 713.5885319295073,
+        "uncertainty": 15,
+        "comparisons": 23
     },
     "Latvia_Tautumeitas_BurManLaimi.mp3": {
-        "rating": 1027.271070402684,
-        "uncertainty": 23.11351748560223,
-        "comparisons": 9
+        "rating": 1167.944072171812,
+        "uncertainty": 15,
+        "comparisons": 31
     },
     "Lithuania_Katarsis_TavoAkys.mp3": {
-        "rating": 1095.3785546221056,
-        "uncertainty": 26.96588783389179,
-        "comparisons": 8
+        "rating": 1152.4577293200812,
+        "uncertainty": 15,
+        "comparisons": 31
     },
     "Luxembourg_LauraThorn_LaPoupeeMonteLeSon.mp3": {
-        "rating": 1092.0947249168162,
-        "uncertainty": 37.064152099514274,
-        "comparisons": 6
+        "rating": 1254.8337603741068,
+        "uncertainty": 15,
+        "comparisons": 27
     },
     "Malta_MirianaConte_Kant.mp3": {
-        "rating": 906.112215015244,
-        "uncertainty": 27.133320734480762,
-        "comparisons": 8
+        "rating": 843.1653401368931,
+        "uncertainty": 15,
+        "comparisons": 32
     },
     "Montenegro_NinaZizic_Dobrodosli.mp3": {
-        "rating": 972.0584001368308,
-        "uncertainty": 23.08470137033525,
-        "comparisons": 9
+        "rating": 791.0588443119746,
+        "uncertainty": 15,
+        "comparisons": 29
     },
     "Netherlands_Claude_CestLaVie.mp3": {
-        "rating": 998.26199663436,
-        "uncertainty": 19.343426813426685,
-        "comparisons": 10
+        "rating": 1004.3372938279837,
+        "uncertainty": 15,
+        "comparisons": 31
     },
     "Norway_KyleAlessandro_Lighter.mp3": {
-        "rating": 952.3912677619072,
-        "uncertainty": 26.31089918592145,
-        "comparisons": 8
+        "rating": 931.5190364569814,
+        "uncertainty": 15,
+        "comparisons": 32
     },
     "Poland_JustynaSteczkowska_GAJA.mp3": {
-        "rating": 935.1164375479194,
-        "uncertainty": 22.731980257746716,
-        "comparisons": 9
+        "rating": 816.8022791104005,
+        "uncertainty": 15,
+        "comparisons": 31
     },
     "Slovenia_Klemen_HowMuchTimeDoWeHaveLeft.mp3": {
-        "rating": 879.5998401082551,
-        "uncertainty": 31.200167810106453,
-        "comparisons": 7
+        "rating": 729.3517638889663,
+        "uncertainty": 15,
+        "comparisons": 26
     },
     "Spain_Melody_EsaDiva.mp3": {
-        "rating": 1000.2226681223553,
-        "uncertainty": 19.310533271938084,
-        "comparisons": 10
+        "rating": 1049.1690189373885,
+        "uncertainty": 15,
+        "comparisons": 30
     },
     "Ukraine_Ziferblat_BirdOfPray.mp3": {
-        "rating": 1064.2908537970022,
-        "uncertainty": 23.141919285547427,
-        "comparisons": 9
+        "rating": 1082.770803201891,
+        "uncertainty": 15,
+        "comparisons": 32
     }
 }
